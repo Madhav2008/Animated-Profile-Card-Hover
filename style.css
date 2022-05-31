@@ -67,4 +67,4 @@ body {
     align-items: flex-end;
 }
 
-.card .content .details {}
+.card .content .details {padding: 40px;}
