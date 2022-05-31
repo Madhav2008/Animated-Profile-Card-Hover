@@ -73,7 +73,7 @@ body {
     width: 100%;
     transition: 0.5s;
     transform: translateY(150px);
-}.card .content .details 
+}.card:hover .content .details 
 {}
 
 .card .content .details h2 {
