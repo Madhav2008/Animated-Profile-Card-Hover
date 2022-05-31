@@ -17,5 +17,6 @@ body {
 
 .card {
     position: relative;
-    width: 350px;height: 190px;
+    width: 350px;
+    height: 190px;
 }
