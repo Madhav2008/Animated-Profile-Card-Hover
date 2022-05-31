@@ -38,4 +38,5 @@ body {
     height: 150px;
     background: #000;
     border-radius: 20px;
+    box-shadow: 0 15px 50px rgba(0, 0, 0, 0.15);
 }
