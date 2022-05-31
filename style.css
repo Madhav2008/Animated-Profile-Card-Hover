@@ -74,4 +74,6 @@ body {
     transition: 0.5s;
 }
 
-.card .content .details h2 {font-size: 0.75em;}
+.card .content .details h2 {
+    font-size: 0.75em;
+}
