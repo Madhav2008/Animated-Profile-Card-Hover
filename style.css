@@ -29,4 +29,6 @@ body {
     height: 450px;
 }
 
-.imgBx {position: absolute;}
+.imgBx {
+    position: absolute;
+}
