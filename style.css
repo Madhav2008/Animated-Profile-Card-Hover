@@ -82,5 +82,6 @@ body {
 }
 
 .card .content .details h2 span {
-    font-size: 0.75em;font-weight: 500;
+    font-size: 0.75em;
+    font-weight: 500;
 }
