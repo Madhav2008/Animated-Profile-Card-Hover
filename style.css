@@ -34,4 +34,5 @@ body {
     left: 50%;
     top: -50px;
     transform: translateX(-50%);
+    width: 150px;
 }
