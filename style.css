@@ -21,5 +21,5 @@ body {
     height: 190px;
     background: #fff;
     border-radius: 20px;
-    box-shadow: 0 35px 80px;
+    box-shadow: 0 35px 80px rgba(0, 0, 0, 0.5);
 }
