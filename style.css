@@ -100,4 +100,4 @@ body {
     font-weight: 600;
 }
 
-.card .content .details .data h3 span {}
+.card .content .details .data h3 span {font-size: 0.85em;}
