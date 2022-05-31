@@ -31,4 +31,5 @@ body {
 
 .imgBx {
     position: absolute;
+    left: 50%;
 }
