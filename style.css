@@ -75,7 +75,7 @@ body {
     transform: translateY(150px);
 }
 
-.card:hover .content .details {}
+.card:hover .content .details {transform: translateY(0px);}
 
 .card .content .details h2 {
     font-size: 1.25em;
