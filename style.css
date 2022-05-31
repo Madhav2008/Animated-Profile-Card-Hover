@@ -93,4 +93,4 @@ body {
     margin: 20px 0;
 }
 
-.card .content .details .data h3 {}
+.card .content .details .data h3 {font-size: 1em;}
