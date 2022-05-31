@@ -71,7 +71,7 @@ body {
     text-align: center;
     width: 100%;
     transition: 0.5s;
-    transform: translateY(100px);
+    transform: translateY(150px);
 }
 
 .card .content .details h2 {
