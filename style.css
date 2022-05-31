@@ -74,6 +74,7 @@ body {
     transition: 0.5s;
     transform: translateY(150px);
 }.card .content .details 
+{}
 
 .card .content .details h2 {
     font-size: 1.25em;
