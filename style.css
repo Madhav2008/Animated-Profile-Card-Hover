@@ -25,4 +25,4 @@ body {
     transition: 0.5s;
 }
 
-.card:hover {}
+.card:hover {height: 450px;}
