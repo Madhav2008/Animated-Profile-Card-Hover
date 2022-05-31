@@ -71,4 +71,5 @@ body {
     padding: 40px;
     text-align: center;
     width: 100%;
+    transition: 0.5s;
 }
