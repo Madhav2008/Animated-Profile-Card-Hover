@@ -102,5 +102,6 @@ body {
 
 .card .content .details .data h3 span {
     font-size: 0.85em;
-    font-weight: 400;opacity: 0.5;
+    font-weight: 400;
+    opacity: 0.5;
 }
