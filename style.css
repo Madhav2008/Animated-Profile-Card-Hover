@@ -110,4 +110,6 @@ body {
     display: flex;
     justify-content: space-between;
     gap: 20px;
-}.card .content .details .actionBtn button{}
+}
+
+.card .content .details .actionBtn button {}
