@@ -101,5 +101,5 @@ body {
 }
 
 .card .content .details .data h3 span {
-    font-size: 0.85em;
+    font-size: 0.85em;font-weight: 400;
 }
