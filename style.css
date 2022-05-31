@@ -27,7 +27,7 @@ body {
 
 .card:hover {
     height: 450px;
-}
+}.card:hover .imgBx
 
 .imgBx {
     position: absolute;
