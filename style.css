@@ -112,4 +112,6 @@ body {
     gap: 20px;
 }
 
-.card .content .details .actionBtn button {}
+.card .content .details .actionBtn button {
+    padding: 10px 30px;
+}
