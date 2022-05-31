@@ -81,4 +81,6 @@ body {
     line-height: 1.2em;
 }
 
-.card .content .details h2 span {font-size: 0.75em;}
+.card .content .details h2 span {
+    font-size: 0.75em;
+}
