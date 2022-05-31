@@ -122,4 +122,6 @@ body {
     background: #ff5f95;
     color: #fff;
     cursor: pointer;
-}.card .content .details .actionBtn button:nth-child(2) {}
+}
+
+.card .content .details .actionBtn button:nth-child(2) {}
