@@ -7,10 +7,6 @@
     font-family: 'Poppins', sans-serif;
 }
 
-:root {
-    --clr: #222327;
-}
-
 body {
     display: flex;
     justify-content: center;
