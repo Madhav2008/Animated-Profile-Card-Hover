@@ -43,4 +43,5 @@ body {
 
 .imgBx img {
     position: absolute;
+    top: 0;
 }
