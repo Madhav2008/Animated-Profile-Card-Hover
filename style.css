@@ -63,7 +63,8 @@ body {
     height: 100%;
     display: flex;
     justify-content: center;
-    align-items: flex-end;overflow: hidden;
+    align-items: flex-end;
+    overflow: hidden;
 }
 
 .card .content .details {
