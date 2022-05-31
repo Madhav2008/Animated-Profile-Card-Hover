@@ -106,4 +106,6 @@ body {
     opacity: 0.5;
 }
 
-.card .content .details .actionBtn {display: flex;}
+.card .content .details .actionBtn {
+    display: flex;
+}
