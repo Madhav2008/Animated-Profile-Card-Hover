@@ -114,5 +114,6 @@ body {
 
 .card .content .details .actionBtn button {
     padding: 10px 30px;
-    border: none;outline: none;
+    border: none;
+    outline: none;
 }
