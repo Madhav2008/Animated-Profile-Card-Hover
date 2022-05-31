@@ -88,5 +88,5 @@ body {
 }
 
 .card .content .details .data {
-    display: flex;
+    display: flex;justify-content: space-between;
 }
