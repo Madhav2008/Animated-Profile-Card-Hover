@@ -58,4 +58,6 @@ body {
     object-fit: cover;
 }
 
-.card .content {position: absolute;}
+.card .content {
+    position: absolute;
+}
