@@ -87,4 +87,6 @@ body {
     opacity: 0.5;
 }
 
-.card .content .details .data {display: flex;}
+.card .content .details .data {
+    display: flex;
+}
