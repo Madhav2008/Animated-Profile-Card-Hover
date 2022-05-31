@@ -16,5 +16,6 @@ body {
 }
 
 .card {
-    position: relative;width: 350p;
+    position: relative;
+    width: 350px;
 }
