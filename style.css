@@ -12,5 +12,5 @@ body {
     justify-content: center;
     align-items: center;
     min-height: 100vh;
-    background: linear-gradient();
+    background: linear-gradient(45deg);
 }
