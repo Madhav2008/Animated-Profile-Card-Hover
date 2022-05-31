@@ -89,5 +89,5 @@ body {
 
 .card .content .details .data {
     display: flex;
-    justify-content: space-between;
+    justify-content: space-between;margin: 20px 0;
 }
