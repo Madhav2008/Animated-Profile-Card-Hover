@@ -96,5 +96,6 @@ body {
 .card .content .details .data h3 {
     font-size: 1em;
     color: #555;
-    line-height: 1.2em;font-weight: 600;
+    line-height: 1.2em;
+    font-weight: 600;
 }
